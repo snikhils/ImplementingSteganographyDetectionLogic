@@ -3,7 +3,7 @@
 Implementing steganography detection logic using different libraries like PIL, OpenCV, MATLAB, and Java with ImageIO involves using specific functions and methods provided by each library. Here are the general steps to implement steganography detection logic using these libraries:
 
 # Install the required libraries:
-  For Python with PIL: Install the Pillow library using pip install pillow.
+  For Python with PIL: Install the Pillow library using pip install pillow.<br>
   For Python with OpenCV: Install the OpenCV library using pip install opencv-python.
   For MATLAB: Ensure you have MATLAB installed and configured.
   For Java with ImageIO: Set up a Java development environment and include the required ImageIO library.
