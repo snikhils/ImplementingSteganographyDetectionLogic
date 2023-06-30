@@ -1,0 +1,14 @@
+function result = detect_steganography_matlab(image_path)
+    % Read the image using imread
+    image = imread(image_path);
+
+    % Perform steganography detection logic
+    % Implement your detection algorithm using MATLAB image processing functions
+
+    % Example: Check for specific image properties or analyze pixel data
+    if size(image, 3) == 4
+        result = true;
+    else
+        result = false;
+    end
+end
